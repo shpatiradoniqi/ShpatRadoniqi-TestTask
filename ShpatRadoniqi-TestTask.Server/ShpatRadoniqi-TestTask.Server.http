@@ -1,0 +1,6 @@
+@ShpatRadoniqi_TestTask.Server_HostAddress = http://localhost:5285
+
+GET {{ShpatRadoniqi_TestTask.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
