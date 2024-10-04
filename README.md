@@ -19,6 +19,8 @@
 - Backend (ASP.NET Core)
 - Frontend (React)
 
+
+##How to run manually and use 
 ![HowToRun](https://github.com/user-attachments/assets/7c011d36-b8ea-4926-99e1-c0b275c99e17)
 ![getMethodFrontEnd](https://github.com/user-attachments/assets/3fa9ee25-52ac-4b99-881a-3df2af6917f5)
 ![getMethod](https://github.com/user-attachments/assets/d92d5542-f1ab-48fa-8aea-c94e4db08cd2)
